@@ -5,34 +5,30 @@ const testimonials = [
   {
     quote:
       "Omar a fait preuve d'une grande autonomie et de sérieux lors de son alternance. Son travail sur le projet Red Product (gestion d'hôtel) a été très apprécié par l'équipe technique. Il a su s'adapter rapidement à nos outils et méthodes.",
-    author: "Jean Dupont",
+    author: "babacar Mboup",
     role: "Lead Developer, Volkeno Groupe",
-    avatar:
-      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+    // avatar:"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
   },
   {
     quote:
       "Omar a été un master exceptionnel sur le projet EbuyApp. Il a su coordonner l'équipe, répartir les tâches et livrer un projet e-commerce fonctionnel avec HTML/CSS/Tailwind et JavaScript. Un vrai leader en devenir !",
-    author: "Mamadou Diallo",
+    author: "Kalika Ba",
     role: "Formateur, Bakeli School of Technology",
-    avatar:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    // avatar:"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
   },
   {
     quote:
       "J'ai collaboré avec Omar sur le projet Sen-emploi. Il maîtrise parfaitement Git et GitHub, et son professionnalisme a rendu notre collaboration fluide et efficace. Très bonne gestion du travail d'équipe.",
     author: "Aïssatou Sow",
     role: "Développeuse Full-Stack",
-    avatar:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+    // avatar:"https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
   },
   {
     quote:
       "Omar s'est distingué lors de sa formation par sa rapidité d'apprentissage et sa passion pour le code. Il a réalisé des projets de qualité et a toujours cherché à comprendre les concepts en profondeur.",
     author: "Mohamed Camara",
     role: "Formateur, 10HTech",
-    avatar:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+    // avatar:"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
   },
 ];
 
